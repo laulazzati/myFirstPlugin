@@ -1,0 +1,3 @@
+This is the Readme file of my repository.
+I am creating my first plugin for Gedit using Gtk+ and Python.
+It is supposed to change the order of the words of the document.
