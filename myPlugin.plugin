@@ -1,0 +1,8 @@
+[Plugin]
+Loader=python
+Module=myPlugin
+IAge=3
+Name=MyPlugin py
+Description= My first plugin
+Authors=Laura Lazzati
+
