@@ -1,0 +1,7 @@
+[Plugin]
+Loader=python
+Module=wordMixer
+IAge=3
+Name=Word Mixer
+Description= A plugin that changes the order of the words of a document.
+Authors=Laura Lazzati
